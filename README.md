@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Hamziee
+- 👀 I’m interested in gaming/coding
+- 🌱 I’m currently learning JavaScript(Node) / Python
+- 📫 How to reach me: hamzie@email.com
