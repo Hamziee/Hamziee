@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hamziee
 - 👀 I’m interested in coding/gaming
-- 🌱 I’m currently learning JavaScript(Node) / Python
+- 🌱 I’m currently learning JavaScript / Python
 - 📫 How to reach me, 
 - 👉 Discord: Hamzie#1000
 - 📧 or email: hamzie@email.com 
