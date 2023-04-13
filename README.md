@@ -2,9 +2,9 @@
 - 👀 I’m interested in coding/gaming
 - 🌱 I’m currently learning Lua / Python
 - 📫 How to reach me, 
-- 👉 Discord: Hamzie#5432
-- 📧 or email: hamzie@email.com 
+- 👉 Discord: Hamza#5432
+- 📧 or email: hamza@heo-systems.com
 
-- ℹ View all my cool projects at: https://www.hamzie.ga/
+- ℹ My new project: https://heo-systems.net
 
 
