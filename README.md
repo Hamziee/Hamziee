@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">About Me</h1>
-<p align="center">Hi, I'm Hamza! I have a keen interest in learning various things, ranging from coding simple programs to constructing entire networks. Computers have fascinated me since a young age, and I'm always eager to delve into exciting and innovative projects!</p>
+<p align="center">Hi, I'm Hamza! I have a keen interest in learning various things, ranging from coding simple programs to figuring out how entire network operate. Computers have fascinated me since a young age, and I'm always eager to delve into exciting and innovative projects!</p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamziee&show_icons=true&theme=dark&locale=en" alt="hamziee" /></p>
 
 <h1 align="center">Languages and Tools:</h1>
