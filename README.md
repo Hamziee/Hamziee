@@ -1,7 +1,5 @@
 <div align="center">
-    <a href="https://heo-systems.net/"></a>
-        <img src="https://lanyard.kyrie25.me/api/496673945211240462?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square" style="height: 390px;align: center;" alt="Discord Presence"/>
-    </a>
+    <p align="center">&nbsp;<img align="center" src="https://lanyard.kyrie25.me/api/496673945211240462?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square" alt="Discord Presence" /></p>
 </div>
 
 <h1 align="center">About Me</h1>
