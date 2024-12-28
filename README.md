@@ -3,13 +3,11 @@
 </div>
 
 <h1 align="center">About Me</h1>
-<p align="center">Hi, I'm Hamza! I have a keen interest in learning various things, ranging from coding simple programs to figuring out how entire network operate. Computers have fascinated me since a young age, and I'm always eager to delve into exciting and innovative projects!</p>
+<p align="center">Hi, I'm Hamza! I have a keen interest in learning various things, ranging from making simple programs to figuring out how entire network operate. Computers have fascinated me since a young age, and I'm always eager to delve into exciting and innovative projects!</p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamziee&show_icons=true&theme=dark&locale=en" alt="hamziee" /></p>
 
 <h1 align="center">Languages and Tools:</h1>
 <p align="center">
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -60,5 +58,5 @@
     <img src="https://raw.githubusercontent.com/Hamziee/Ava/main/readme.jpg" alt="Ava Logo" width="200" height="200">
     <br>
     <br>
-    <p>Creating Ava has been an exciting experiment for me. While I've dabbled in developing Discord bots before, they were mostly limited to preset functionalities on websites. Armed with my (somewhat basic) knowledge of Python, I embarked on this journey to make my own Discord bot from scratch. I've also wanted to make an open-source project, so the timing couldn't have been better. I dedicate my free time to this project, continuously expanding its capabilities until it reaches a point of complete stability, and I'm satisfied with the rich array of features it offers. Check out Ava on <a href="https://github.com/Hamziee/Ava">GitHub</a>.</p>
+    <p>Creating Ava has been an exciting experiment for me. While I've made Discord bots before, they were mediocure at best. With my (somewhat basic) knowledge of Python, I started this project to make a Discord Bot. I've also wanted to make an open-source project, so the timing couldn't have been better. Check out Ava on <a href="https://github.com/Hamziee/Ava">GitHub</a>.</p>
 </div>
