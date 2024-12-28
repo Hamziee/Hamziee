@@ -42,18 +42,6 @@
 <br>
 
 <div align="center">
-    <h3>HEO Systems</h3>
-    <img src="https://www.heo-systems.net/Branding/heo%20systems%20modern%20transparent-1500w.png" alt="HEO Systems Logo" width="200" height="200">
-    <p>I founded HEO Systems with a simple yet ambitious goal: to create an affordable and reliable solution for hosting Minecraft SMPs. Back in 2020, I struggled to find an option that met my needs without breaking the bank. Determined to bridge this gap, I set out to develop my own solution. Fast forward to 2022, and HEO Systems was born.</p>
-    <p>Initially, our focus was on offering top-quality Minecraft servers at unbeatable prices. But as our journey progressed, so did our vision. We quickly expanded our services to encompass a variety of games and even ventured into hosting Discord bots. And that was just the beginning.</p>
-    <p>Driven by a passion for innovation and a commitment to excellence, we recently introduced web hosting to our repertoire. With this new addition up and running smoothly, we're eager to continue growing and evolving our services.</p>
-    <p>At HEO Systems, we're not just about providing hosting solutions—we're about empowering our customers to pursue their passions and build thriving communities. And as we look to the future, we're excited to see where our journey takes us next.</p>
-    <a href="https://heo-systems.net">Explore HEO Systems</a>
-</div>
-
-<br>
-
-<div align="center">
     <h3>Ava Discord Bot</h3>
     <img src="https://raw.githubusercontent.com/Hamziee/Ava/main/readme.jpg" alt="Ava Logo" width="200" height="200">
     <br>
