@@ -31,20 +31,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
 </p>
-
-<br>
-
-<div align="center">
-    <h2 align="center">My Projects</h2>
-    <p>Check out some of the projects I've been working on:</p>
-</div>
-
-<br>
-
-<div align="center">
-    <h3>Ava Discord Bot</h3>
-    <img src="https://raw.githubusercontent.com/Hamziee/Ava/main/readme.jpg" alt="Ava Logo" width="200" height="200">
-    <br>
-    <br>
-    <p>Creating Ava has been an exciting experiment for me. While I've made Discord bots before, they were mediocure at best. With my (somewhat basic) knowledge of Python, I started this project to make a Discord Bot. I've also wanted to make an open-source project, so the timing couldn't have been better. Check out Ava on <a href="https://github.com/Hamziee/Ava">GitHub</a>.</p>
-</div>
